@@ -64,8 +64,6 @@ That's really cool, and we are glad that you like DBeaver.
 
 Thank you!  
 
-22D90C8C0ADE33E8FE41AD8B8C799389D133C98936C107F939030430E7
-
 - <a href="https://github.com/dbeaver/dbeaver/graphs/contributors">DBeaver Team</a> (contributors)
 
 ---------
